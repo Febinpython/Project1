@@ -1,0 +1,12 @@
+.banner{
+    background-color:navy;
+    width:10%;
+    height:200%;
+    margin=bottom:50px;
+}
+.banner-text{
+top:50%;
+left:20%;
+position:absolute;
+transform:transform;
+}
